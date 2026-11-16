@@ -1,0 +1,25 @@
+﻿Retailer_ID,Retailer_Name,Region_ID,Channel_ID,Retailer_Type
+RTL-N-ON-01,North On-trade Outlet 01,NORTH,ON,Bar/Restaurant
+RTL-N-ON-02,North On-trade Outlet 02,NORTH,ON,Bar/Restaurant
+RTL-N-ON-03,North On-trade Outlet 03,NORTH,ON,Bar/Restaurant
+RTL-N-ON-04,North On-trade Outlet 04,NORTH,ON,Bar/Restaurant
+RTL-N-OFF-01,North Off-trade Outlet 01,NORTH,OFF,Retail Store
+RTL-N-OFF-02,North Off-trade Outlet 02,NORTH,OFF,Retail Store
+RTL-N-OFF-03,North Off-trade Outlet 03,NORTH,OFF,Retail Store
+RTL-N-OFF-04,North Off-trade Outlet 04,NORTH,OFF,Retail Store
+RTL-C-ON-01,Central On-trade Outlet 01,CENTRAL,ON,Bar/Restaurant
+RTL-C-ON-02,Central On-trade Outlet 02,CENTRAL,ON,Bar/Restaurant
+RTL-C-ON-03,Central On-trade Outlet 03,CENTRAL,ON,Bar/Restaurant
+RTL-C-ON-04,Central On-trade Outlet 04,CENTRAL,ON,Bar/Restaurant
+RTL-C-OFF-01,Central Off-trade Outlet 01,CENTRAL,OFF,Retail Store
+RTL-C-OFF-02,Central Off-trade Outlet 02,CENTRAL,OFF,Retail Store
+RTL-C-OFF-03,Central Off-trade Outlet 03,CENTRAL,OFF,Retail Store
+RTL-C-OFF-04,Central Off-trade Outlet 04,CENTRAL,OFF,Retail Store
+RTL-S-ON-01,South On-trade Outlet 01,SOUTH,ON,Bar/Restaurant
+RTL-S-ON-02,South On-trade Outlet 02,SOUTH,ON,Bar/Restaurant
+RTL-S-ON-03,South On-trade Outlet 03,SOUTH,ON,Bar/Restaurant
+RTL-S-ON-04,South On-trade Outlet 04,SOUTH,ON,Bar/Restaurant
+RTL-S-OFF-01,South Off-trade Outlet 01,SOUTH,OFF,Retail Store
+RTL-S-OFF-02,South Off-trade Outlet 02,SOUTH,OFF,Retail Store
+RTL-S-OFF-03,South Off-trade Outlet 03,SOUTH,OFF,Retail Store
+RTL-S-OFF-04,South Off-trade Outlet 04,SOUTH,OFF,Retail Store

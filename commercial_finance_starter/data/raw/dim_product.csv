@@ -1,0 +1,9 @@
+﻿SKU_ID,Brand,Category,Product_Name,Bottle_Size_ML,Units_Per_Case,List_Price_Per_Case_VND,Standard_Cost_Per_Case_VND,Base_Cases,Brand_ID
+CHV12-700,Chivas Regal,Scotch Whisky,Chivas Regal 12 700ml,700,6,7800000,3900000,82,BR-03
+CHV12-1000,Chivas Regal,Scotch Whisky,Chivas Regal 12 1000ml,1000,6,10800000,5400000,43,BR-03
+BALF-700,Ballantine's,Scotch Whisky,Ballantine's Finest 700ml,700,6,4500000,2250000,105,BR-02
+BALF-1000,Ballantine's,Scotch Whisky,Ballantine's Finest 1000ml,1000,6,6300000,3150000,58,BR-02
+JAM-700,Jameson,Irish Whiskey,Jameson Original 700ml,700,6,5700000,2850000,91,BR-04
+JAM-1000,Jameson,Irish Whiskey,Jameson Original 1000ml,1000,6,8100000,4050000,49,BR-04
+ABS-700,Absolut,Vodka,Absolut Vodka 700ml,700,12,3600000,1800000,115,BR-01
+ABS-1000,Absolut,Vodka,Absolut Vodka 1000ml,1000,12,5000000,2500000,62,BR-01

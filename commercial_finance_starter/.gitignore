@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+
+# Power BI local/temp backups
+*.tmp
+*.bak
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Keep intentionally added deliverables in excel/, powerbi/, screenshots/, presentation/.

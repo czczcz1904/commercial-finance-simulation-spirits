@@ -1,0 +1,6 @@
+Synthetic dataset validation | seed=20261116 | year=2025
+PASS | Unique fact grains: sell-in, depletion and inventory
+PASS | Gross-to-Net and COGS calculations reconcile
+PASS | Inventory roll-forward reconciles and closing stock is non-negative
+PASS | Fact foreign keys map to dimension tables
+PASS | Sell-in and depletion detail reconcile to inventory fact

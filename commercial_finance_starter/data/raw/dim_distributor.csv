@@ -1,0 +1,13 @@
+﻿Distributor_ID,Distributor_Name,Region_ID,Distributor_Tier,Status
+DST-N-01,North Distributor 01,NORTH,A,Active
+DST-N-02,North Distributor 02,NORTH,B,Active
+DST-N-03,North Distributor 03,NORTH,B,Active
+DST-N-04,North Distributor 04,NORTH,C,Active
+DST-C-01,Central Distributor 01,CENTRAL,A,Active
+DST-C-02,Central Distributor 02,CENTRAL,B,Active
+DST-C-03,Central Distributor 03,CENTRAL,B,Active
+DST-C-04,Central Distributor 04,CENTRAL,C,Active
+DST-S-01,South Distributor 01,SOUTH,A,Active
+DST-S-02,South Distributor 02,SOUTH,B,Active
+DST-S-03,South Distributor 03,SOUTH,B,Active
+DST-S-04,South Distributor 04,SOUTH,C,Active
